@@ -1,0 +1,19 @@
+{
+  "name": "angular-ui-bootstrap",
+  "version": "0.11.2",
+  "description": "",
+  "main": "ui-bootstrap-tpls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackellyb/bootstrap-bower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackellyb/bootstrap-bower/issues"
+  },
+  "homepage": "https://github.com/ackellyb/bootstrap-bower#readme"
+}
